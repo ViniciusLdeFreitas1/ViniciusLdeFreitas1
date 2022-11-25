@@ -6,8 +6,10 @@
 </div>
 
 ##
-  <div align="center" style="display: inline_block">
-  <br>  
+<br>
+
+<div align="center" style="display: inline_block">
+    
   <img align="center" alt="Vini-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
@@ -23,4 +25,5 @@
   </a>   
   <a href = "mailto:viniciuslonardi04@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>  </div>
+  </a>  
+</div>
