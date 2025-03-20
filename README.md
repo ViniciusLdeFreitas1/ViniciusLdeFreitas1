@@ -1,4 +1,4 @@
-<h2 align="center">  Olá! Eu sou Vinicius Lonardi de Freitas, Estudante da ETEC.</h2>
+<h2 align="center">  Olá! Eu sou Vinicius Lonardi de Freitas, Cursando ADS no Ceunsp.</h2>
 <div align="center">  
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ViniciusLdeFreitas1&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLdeFreitas1&layout=compact&langs_count=7&theme=dark"></div><div align="center">  
